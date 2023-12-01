@@ -1,7 +1,6 @@
 ### 🛠 ManaBingsu ⚔
 ## Introduce
 Game development lover  
-JNU student 2018.03 ~
 
 ## Joined project
 |Man of band|WarGround|Edge of christmas|Farm devil|Tabby|Moon slasher|
