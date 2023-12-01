@@ -1,4 +1,6 @@
 ### 🛠 ManaBingsu ⚔
+![manabingsu](https://github.com/ManaBingsu/ManaBingsu/assets/43133819/2c03696e-01c0-44d4-8fac-ee36a02fc1ec)
+
 ## Introduce
 Game development lover  
 
